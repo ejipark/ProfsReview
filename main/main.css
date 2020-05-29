@@ -1,0 +1,79 @@
+/* whole */
+html {
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-weight: 1000;
+	background: #F0F8FF;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+/* input */
+input {
+	border: 2px solid;
+	border-color: lightgrey;
+}
+
+input, input::placeholder {
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	letter-spacing: .5px;
+	text-align: center;
+}
+
+/* header */
+.homeLogo {
+	width: 170px;
+	height: 70px;
+}
+
+.inputHeader {
+	text-align: center;
+	margin-top: -55px;
+}
+
+.inputProf {
+	display: inline-block;
+	width: 40%;
+	height: 30px;
+}
+
+.linkLogin {
+	text-align: right;
+	margin-top: -25px;
+}
+
+/* body */
+#content {
+	text-align: center;
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+
+.mainInst {
+	font-size: 40px;
+}
+
+.inputSchool {
+	margin-top: 20px;
+	width: 300px;
+	height: 40px;
+}
+
+.subInst {
+	margin-top: 50px;
+}
+
+.subInst .tab {
+	padding-left: 10px;
+}
+
+.inputClass {
+	width: 100px;
+	height: 20px;
+}
+
+.submit {
+	margin-top: 30px;
+	width: 240px;
+	height: 30px
+}
+
